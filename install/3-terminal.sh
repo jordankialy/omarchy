@@ -5,4 +5,4 @@ yay -S --noconfirm --needed \
   fd fzf ripgrep bat \
   wl-clipboard fastfetch btop \
   man tldr less \
-  alacritty
+  alacritty mlocate
